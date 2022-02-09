@@ -1,9 +1,5 @@
-### Hi there 👋
+##Olá, eu sou o Diego Raposeiro.
 
-<!--
-**Didevphy/Didevphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<div>
+  <a href="https://github.com/Didevphy">
+  <img height="180em" src="https://github-readme.stats.varcel.app/api?username=diegoraposeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme.stats.varcel.app/api/top-langs/?username=diegoraposeiro&layout=compact&langs_count=16&theme=dracula"/>
+</div>
