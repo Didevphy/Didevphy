@@ -1,9 +1,6 @@
 ##  Olá, eu sou o Diego Raposeiro. Estudante de Front-end e grande admirador da tecnologia.
 
 
-- 🔭 Estudante de Front-End...
-
-
 <div align="center">
   <a href="https://github.com/Didevphy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didevphy&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
