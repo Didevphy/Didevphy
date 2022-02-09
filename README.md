@@ -13,5 +13,5 @@
 <div>
   <a href="https://github.com/Didevphy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Didevphy&theme=gothan&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.varcel.app/api/pin?username=anuraghazra&repo=github-readme-stats
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Didevphy&layout=compact)(https://https://github.com/Didevphy-readme-stats"/>
 </div>
