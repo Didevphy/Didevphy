@@ -1,4 +1,4 @@
-##  Olá, eu sou o Diego Raposeiro. Estudante de Front-end e grande admirador da tecnologia.
+##  Olá, eu sou o Diego Raposeiro. Desenvolvedor Front-end e grande admirador da tecnologia.
 
 
 <div align="center">
